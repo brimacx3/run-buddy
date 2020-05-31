@@ -226,14 +226,17 @@ section {
 .contact-info iframe {
     width: 400px;
     height: 400px;
+  
 }
-.contact-info div {
+.contact-info p, .contact-info h3, .contact-info address {
     width: 410px;
     display: inline-block;
     vertical-align: top;
     text-align: left;
     margin: 30px 0 0 60px;
     color: white;
+    
+
 }
 .contact-info h3 {
     color: #fce138;
