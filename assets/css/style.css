@@ -69,8 +69,7 @@ footer a {
 section {
     padding: 60px;
 }
-
-/* Hero Style Start */
+/*hero style page */
 .hero {
     background-image: url("../images/hero-bg\ \(1\).jpg");
     height: 600px;
@@ -228,7 +227,7 @@ section {
     height: 400px;
   
 }
-.contact-info p, .contact-info h3, .contact-info address {
+.contact-info div {
     width: 410px;
     display: inline-block;
     vertical-align: top;
