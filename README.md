@@ -12,3 +12,5 @@ https://brimacx3.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by [brimacx3]
+
+### ©️2019 Run Buddy, Inc
